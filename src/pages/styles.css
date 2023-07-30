@@ -1,0 +1,59 @@
+.form-control {
+  text-align: center;
+}
+
+.input {
+  margin: 10px 0;
+}
+
+.checkbox {
+  margin-right: 10px;
+}
+
+.btn {
+  background-color: blue !important;
+  color: white !important;
+}
+
+.result {
+  color: green;
+}
+.input-section {
+  margin: 20px 0;
+}
+
+.input {
+  margin: 10px 0;
+  display: block;
+}
+
+.btn {
+  margin-top: 20px;
+}
+.form-control {
+  width: 50%;
+}
+
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+
+button {
+  background-color: #04aa6d;
+  color: white;
+  padding: 14px 40px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+}
